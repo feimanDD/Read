@@ -1,6 +1,4 @@
-Privacy Policy
 
-Effective date: October 17, 2018
 
 ShadowSpeed ("us", "we", or "our") operates the ShadowSpeed mobile application (hereinafter referred to as the "Service").
 
